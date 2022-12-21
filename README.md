@@ -1,4 +1,4 @@
-# Тестовое задание для компании Lotos
+# Тестовое задание для компании Lotus
 
 ## Getting Started with Create React App
 
